@@ -25,7 +25,7 @@ These functions form a personal C library (`libft.a`) that I can use later on in
 Clone the repository and run `make` to compile the library:
 
 ```bash
-git clone https://github.com/your-username/libft.git
+git clone https://github.com/mhmdam14/libft.git
 cd libft
 make
 gcc your_code.c -L. -lft -o your_program
